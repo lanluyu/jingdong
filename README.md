@@ -18,4 +18,4 @@ jdPhone是一个基于Scrapy-Selenium的爬取京东手机搜索页面信息的�
 爬取结果
 -
 在京东网站上总共爬取了5890条有关手机商品的有效信息。结果由爬虫先存储在MongoDB中，再导出为Excle文件。部分数据如下截图:<br>
-![工作信息截图](https://github.com/lanluyu/pythonjob/blob/master/job.PNG)
+![手机详情截图](https://github.com/lanluyu/jingdong/blob/master/phone.PNG)
