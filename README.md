@@ -2,7 +2,7 @@ jdPhone说明文档
 ==
 介绍
  - 
-jdPhone是一个基于Scrapy-Selenium的爬取京东手机搜索页面信息的爬虫，由于京东的限制，只爬取了100页手机的详情。<br>
+jdPhone是一个基于Scrapy-Selenium的爬取京东手机信息的爬虫。<br>
 
 代码说明
 --
